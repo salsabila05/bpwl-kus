@@ -83,7 +83,7 @@ $.getJSON("datas.php",function (data){
 
     tui.chart.barChart(container, data, options);
     //maaf lahir bathin teman teman                
-
+    //terimakasih teman
 });
 </script>
 
